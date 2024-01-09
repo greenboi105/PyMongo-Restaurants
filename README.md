@@ -14,7 +14,7 @@ In this first portion, we upload the JSON data to the Mongo database and then qu
 
 ## Step 2: Update the Database
 
-We was to upload the JSON data entry for a new restaurant to the database:
+We want to upload the JSON data entry for a new restaurant to the database:
 
 ```json
 {
